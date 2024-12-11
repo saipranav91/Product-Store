@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: aqua;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.button{
+    margin-left: 150px;
+}
+label{
+    color: whitesmoke;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
